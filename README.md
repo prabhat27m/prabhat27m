@@ -5,20 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prabhatm7-blue)](https://linkedin.com/in/prabhatm7)
 [![GitHub](https://img.shields.io/badge/GitHub-prabhat27m-black)](https://github.com/prabhat27m)
 
-## Education
-
-### JSS Science and Technology University, SJCE
-**BE in Information Science**  
-*Mysuru, India*  
-- CGPA: 9.4/10.0
-- 2020 - 2024
-
-### Bhagat Public School
-**Secondary Education (Class XII)**  
-*Kota, India*  
-- Percentage: 80%
-- 2018 - 2019
-
 ## Experience
 
 ### Software Engineer I
